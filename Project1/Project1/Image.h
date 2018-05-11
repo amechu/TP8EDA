@@ -14,8 +14,5 @@ private:
 	unsigned height;
 	bool selected;
 	std::string name;
-	void setName();
-	void loadBitmap();
-	void destroyBitmap();
 };
 
