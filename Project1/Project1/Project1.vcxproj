@@ -123,9 +123,13 @@
   <ItemGroup>
     <ClCompile Include="Image.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="parseCmdLine.h" />
+    <ClCompile Include="parser.cpp" />
+    <ClCompile Include="parserCMDLine.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Image.h" />
+    <ClInclude Include="parser.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
